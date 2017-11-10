@@ -1,47 +1,33 @@
-# Teste de front-end para F/FWD
+# Instruções 
 -------------------------
 
-Antes de iniciar o desenvolvimento **leia bem esse documento**.
+Instruções para rodar o projeto.
 
-## O que fazer?
+1-	Você precisa de um computador com navegador (Google Chrome, Firefox, IE, Safari);
 
-Use HTML, CSS e JavaScript para desenvolver o layout a seguir:
+2-	Acessar o site do Github;
 
-#### Layouts
+3-	Deve fazer pesquisa por “teste-front-end”;
 
-**Mobile**
+https://imgur.com/uD4KdEm
 
-![mobile](https://i.imgur.com/sUKyKxu.png)
+4-	Próxima etapa fazer o download dos arquivos;
 
-**Desktop**
+https://imgur.com/1Qf3CxE
 
-![desktop](https://i.imgur.com/3G6exVQ.png)
+https://imgur.com/HWlSJA8
 
-## Requisitos
+5-	extrair com winrar ou 7zip;
 
-- Use o git para gerenciar seu código;
-- Crie um readme com instruções para compilar/testar/rodar seu código;
-- Seja fiel aos PSD's;
-- O layout deve ser responsivo;
+https://imgur.com/miq4p8M
 
-## Com o que nos preocupamos?
+https://imgur.com/PCxFaRk
 
-Sinta-se livre para usar qualquer biblioteca que você usaria em um site real, em produção. Mas lembre-se, estamos interessados no seu código e na maneira que você resolve os problemas, não em quão bem você utiliza uma determinada biblioteca.
+6-	Após terminar de extrair todos os arquivos executar o arquivo “index.html”;
 
-Estamos tão interessados em seus métodos utilizados para a resolução do problema, quanto no resultado final.
+https://imgur.com/3RerOqy
 
-**Concentre-se nisso e ficaremos felizes:**
-- Semântica do HTML;
-- Mantenha seu CSS claro, conciso e objetivo (Pré-processadores são muito bem-vindos);
-- JavaScript: não curtimos muito jQuery, mas fique à vontade;
-- Não se preocupe com navegadores antigos, utilize o que há de mais novo.
+7-	Pronto, você já está visualizando a página web; 
 
-## Q&A
+https://imgur.com/vsxHqvG
 
-**Para onde envio meu código quando eu terminar?**
-
-Faça um "fork" desse repositório e envie-nos um "pull request" quando você finalizar. Nós não temos um deadline, mas avaliamos o tempo utilizado.
-
-**E se eu tiver uma pergunta?**
-
-Crie um "issue" no repositório e nós te responderemos o mais rápido possível.
